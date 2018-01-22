@@ -8,13 +8,13 @@
 	android:layout_height="70dp"
 	android:layout_width="100dp"
 	>
-	<com.mycompany.myappurje.MaterialRippleLayout2
+	<com.yourcompany.name.MaterialRippleLayout2
 		android:layout_width="fill_parent"
 		android:layout_height="fill_parent">
 		<View
 			android:layout_height="fill_parent"
 			android:layout_width="fill_parent"/>
-	</com.mycompany.myappurje.MaterialRippleLayout2>
+	</com.yourcompany.name..MaterialRippleLayout2>
 	<TextView
 		android:gravity="center"
 		android:text="TEST"
