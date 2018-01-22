@@ -14,7 +14,7 @@
 		<View
 			android:layout_height="fill_parent"
 			android:layout_width="fill_parent"/>
-	</com.yourcompany.name..MaterialRippleLayout2>
+	</com.yourcompany.name.MaterialRippleLayout2>
 	<TextView
 		android:gravity="center"
 		android:text="TEST"
