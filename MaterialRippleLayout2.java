@@ -1,4 +1,4 @@
-package com.mycompany.myappurje;
+package com.yourcompany.name.;
 
 import android.animation.Animator;
 import android.animation.AnimatorListenerAdapter;
